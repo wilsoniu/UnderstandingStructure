@@ -1,0 +1,150 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mP2UnderstandingStructure.com" resolutions="1x,2x" timestamp="1552224441034">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="for-you.css" crc="3761423094" ref="for-you"/>
+    <file name="index.css" crc="3813015754" ref="index"/>
+    <file name="playing.css" crc="528937356" ref="playing"/>
+    <file name="library.css" crc="329740911" ref="library"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:library:playing:for-you"/>
+    <file name="museutils.js" crc="340535759" ref="index:library:playing:for-you"/>
+    <file name="whatinput.js" crc="86476730" ref="index:library:playing:for-you"/>
+    <file name="museconfig.js" crc="310584261" ref="index:library:playing:for-you"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:library:playing:for-you"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:library:playing:for-you"/>
+    <file name="require.js" crc="7928878" ref="index:library:playing:for-you"/>
+  </folder>
+  <folder name="images">
+    <file name="img_7183_4-u219-fr.jpg" crc="3997233098" ref="index:library:playing:for-you"/>
+    <file name="2.jpg" crc="4107998506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_2x.jpg" crc="4065512648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="player hi-crop-u997.png" crc="4163995629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player hi-crop-u997_2x.png" crc="278111306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3864805117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2x.jpg" crc="344416628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="97089535" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="1_2x.jpg" crc="165143244" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi-crop-u895.png" crc="193457125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="library hi-crop-u895_2x.png" crc="251762113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="for you hi-crop-u923.png" crc="188629994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="for you hi-crop-u923_2x.png" crc="95385255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="library hi176x380.png" crc="70361944" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi176x380_2x.png" crc="4019033332" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library lo.jpg" crc="4244859157" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library lo_2x.jpg" crc="372911747" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi-crop-u486.png" crc="66996869" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi-crop-u486_2x.png" crc="4076779283" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi-crop-u564.png" crc="4136156642" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="library hi-crop-u564_2x.png" crc="4126913180" seo="true" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="2173x348.jpg" crc="511485495" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="2173x348_2x.jpg" crc="475822091" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi176x380.png" crc="3835359148" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi176x380_2x.png" crc="526478641" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player lo.jpg" crc="4077565438" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player lo_2x.jpg" crc="3959069160" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi-crop-u608.png" crc="3854332144" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi-crop-u608_2x.png" crc="144524327" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi-crop-u624.png" crc="3812026124" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="player hi-crop-u624_2x.png" crc="4104287176" seo="true" ref="playing">
+      <caption webpage="playing" alt=""/>
+    </file>
+    <file name="3173x345.jpg" crc="191878918" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="3173x345_2x.jpg" crc="350851195" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi176x380.png" crc="3870349698" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi176x380_2x.png" crc="3802098787" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you lo.jpg" crc="3759190685" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you lo_2x.jpg" crc="3976553431" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi-crop-u794.png" crc="4230018402" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi-crop-u794_2x.png" crc="4173021210" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi-crop-u816.png" crc="4116452169" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="for you hi-crop-u816_2x.png" crc="4036618822" seo="true" ref="for-you">
+      <caption webpage="for-you" alt=""/>
+    </file>
+    <file name="apple-music-icon-u160.png" crc="4214137442" ref="index"/>
+    <file name="apple-music-icon-u160_2x.png" crc="365384472" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4004181390" seo="true" mt="1552224433465" redirect="true"/>
+  <file name="library.html" crc="3921432949" seo="true" mt="1552224298487" redirect="true"/>
+  <file name="playing.html" crc="4275478811" seo="true" mt="1552224327696" redirect="true"/>
+  <file name="for-you.html" crc="3812220226" seo="true" mt="1552224309529" redirect="true"/>
+</manifest>
